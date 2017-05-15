@@ -1,3 +1,5 @@
 # getskillsa
 add oneline
-1111111
+<<<<<<< HEAD
+solve conflict
+>>>>>>> featurel
